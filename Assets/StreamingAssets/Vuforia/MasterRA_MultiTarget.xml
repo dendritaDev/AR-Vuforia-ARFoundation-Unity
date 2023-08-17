@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="MarsBox.Top" size="0.762000 0.381000"/>
+        <ImageTarget name="MarsBox.Bottom" size="0.762000 0.381000"/>
+        <ImageTarget name="MarsBox.Front" size="0.762000 1.016000"/>
+        <ImageTarget name="MarsBox.Back" size="0.762000 1.016000"/>
+        <ImageTarget name="MarsBox.Right" size="0.381000 1.016000"/>
+        <ImageTarget name="MarsBox.Left" size="0.381000 1.016000"/>
+        <MultiTarget name="MarsBox">
+            <Part name="MarsBox.Left" translation="-0.38100001215934753 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="MarsBox.Right" translation="0.38100001215934753 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="MarsBox.Front" translation="0 0 0.19050000607967377" rotation="AD: 1 0 0 0"/>
+            <Part name="MarsBox.Back" translation="0 0 -0.19050000607967377" rotation="AD: 0 1 0 180"/>
+            <Part name="MarsBox.Top" translation="0 0.5080000162124634 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="MarsBox.Bottom" translation="0 -0.5080000162124634 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
