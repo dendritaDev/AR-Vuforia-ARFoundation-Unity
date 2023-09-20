@@ -1,6 +1,4 @@
 # AR-Projects-Vuforia&ARFoundation
-AR projects, part of the Course: Master's in Augmented Reality with Unity(11h) from Frogames
-
 # Projects - Vuforia
  - Image Target
  - Multi Target
