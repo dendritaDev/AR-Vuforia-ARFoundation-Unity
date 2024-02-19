@@ -22,3 +22,4 @@
 ![](https://github.com/dendritaDev/AR-Vuforia-ARFoundation-Unity/blob/main/Multi%20Target.gif)
 ![](https://github.com/dendritaDev/AR-Vuforia-ARFoundation-Unity/blob/main/Ground%20Plane.gif)
 ![](https://github.com/dendritaDev/AR-Vuforia-ARFoundation-Unity/blob/main/Cloud%20Recognition.gif)
+![](https://github.com/dendritaDev/AR-Vuforia-ARFoundation-Unity/blob/main/ARBookMagicEffects.gif)
